@@ -1,0 +1,43 @@
+
+		Tue Sep 06 21:44:24 2022
+Kunwar Jora ----> 7507066263
+Rekha Jora ----> 9422860608
+
+		Tue Sep 06 21:45:14 2022
+Kunwar Jora ----> 7507066263
+Rekha Jora ----> 9422860608
+
+		Tue Sep 06 21:47:20 2022
+Kunwar Jora ----> 7507066263
+Rekha Jora ----> 9422860608
+
+		Tue Sep 06 21:48:34 2022
+kunwar ----> 12
+Rekah ----> 13
+veer jor ----> 88
+
+		Tue Sep 06 22:58:45 2022
+Kunwar Jora ----> 7507066263
+Veer Jora ----> 1234
+Rekha ----> 9422860608
+
+		Tue Sep 06 23:00:46 2022
+Kunwar Jora ----> 7507066263
+Veer Jora ----> 1234
+Rekha ----> 9422860608
+Jaiwin ----> 7878
+Piyush ----> 1298
+
+		Tue Sep 06 23:02:35 2022
+Kunwar Jora ----> 7507066263
+Veer Jora ----> 1234
+Rekha ----> 9422860608
+Jaiwin ----> 7878
+Piyush ----> 1298
+
+		Tue Jan 03 23:28:05 2023
+Kunwar Jora ----> 7507066263
+Veer Jora ----> 1234
+Rekha ----> 9422860608
+Jaiwin ----> 123123
+Piyush ----> 1298
